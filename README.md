@@ -1,5 +1,3 @@
-# convergence_economique
-Analyse empirique de la convergence économique entre pays du RCEP à l’aide de régressions, tests de dispersion et matrices de mobilité (1950–2018)
 # 🌍 Convergence économique entre les pays du RCEP (1950–2018)
 
 Ce projet analyse l'existence d'une convergence économique entre les pays membres du Partenariat Économique Régional Global (RCEP), à partir de l'évolution du PIB par habitant sur la période 1950–2018. Il s'agit d'un travail académique réalisé dans le cadre du Master 1 Économie Appliquée à l'Université de Pau et des Pays de l’Adour.
@@ -39,12 +37,12 @@ Ce projet analyse l'existence d'une convergence économique entre les pays membr
 ---
 
 ## 📁 Contenu du dépôt
-'''
+```
 convergence_economique/
 ├── convergence_rcep.R # Script principal en R
 ├── rapport_convergence.pdf # Rapport complet (optionnel)
 └── README.md # Présentation du projet
-'''
+```
 
 ## 🧠 Auteurs
 
